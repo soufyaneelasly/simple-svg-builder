@@ -102,7 +102,7 @@ svg.appendChild(lbl)
 
 }
 
-let myex=['july','may','octobre','xherjay','nari','9wadt','wa3','xher twil','w9','79dt','l3z khdmti']
+let myex=['july','may','octobre','xherjay','nari','9wadt','wa3','xher twil','w9','79dt','l3z mti']
 
 for (let i=0;i<550;i+=50){
   const x=i 
